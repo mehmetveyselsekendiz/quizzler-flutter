@@ -1,6 +1,6 @@
 # Quizzler
 
-![quizzler-screenshoot](https://user-images.githubusercontent.com/48597730/100767900-55945080-340b-11eb-8b09-34f32c0118bd.png)
+![quizzler-screenshoot](https://user-images.githubusercontent.com/48597730/100769570-4adabb00-340d-11eb-9779-f1d53bb27309.png)
 
 This is a quiz app that tests your general knowledge. 
 As one of the most popular types of apps on the app stores, you can create your own quiz for other people to enjoy!
